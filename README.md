@@ -19,3 +19,12 @@
     不但有详细的下载和文件路径处理，
 
     还有下载进度条等，是学习NSFileMananger十分良好的一个项目。
+
+4.https://github.com/lizelu 一个大牛有好多基础的项目工程，赞赞！！
+
+
+     MVVM： 一个MVVM架构的iOS工程       CATransitionDemo： iOS开发常用页面切换效果
+     
+     ZLCustomeSegmentControlView： 视错觉Demo介绍    ObjCRuntimeDemo： http://www.cnblogs.com/ludashi/p/6294112.html
+     
+     SliderTabBar：多个表视图手势切换，加手势的选项卡~     WeChat： 妨微信聊天
