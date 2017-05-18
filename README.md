@@ -28,3 +28,15 @@
      ZLCustomeSegmentControlView： 视错觉Demo介绍    ObjCRuntimeDemo： http://www.cnblogs.com/ludashi/p/6294112.html
      
      SliderTabBar：多个表视图手势切换，加手势的选项卡~     WeChat： 妨微信聊天
+
+5.https://github.com/LSure/  封装了各种小工具
+
+
+     AppPlaceholder：零行代码为App添加异常加载占位图    SureWebViewController：一劳永逸，iOS网页视图控制器通用类封装
+     
+     SureGuideView：一劳永逸，iOS引导蒙版封装流程        MultipleSelectedWindow：一劳永逸，iOS多选弹窗封装流程
+     
+      SureCustomActionSheet：一劳永逸，iOS自定义ActionSheet封装流程   
+      
+      GradientsTextView：为你的文本框添加进度提示模糊层
+   
