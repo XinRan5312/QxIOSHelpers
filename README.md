@@ -8,7 +8,11 @@
     
     他有一个很牛犇的下拉刷新，上拉加载更多的工具项目：MJRefesh。
     
-    还有一个图片MJDownload（下载工具项目），MJExtension（扩展工具）和iOS9Sample-Photos（自定义图片相册）也是不错的
+    还有一个图片MJDownload（下载工具项目），
+    
+    MJExtension（MJExtension是一套字典和模型之间互相转换的超轻量级框架）类似于YYModle
+    
+    和iOS9Sample-Photos（自定义图片相册）也是不错的
     
 2.https://github.com/MaWenxing/   Object-C初学者比较合适它里面的项目
 
@@ -39,4 +43,11 @@
       SureCustomActionSheet：一劳永逸，iOS自定义ActionSheet封装流程   
       
       GradientsTextView：为你的文本框添加进度提示模糊层
+      
+ 6.https://github.com/wangyangcc
+ 
+ 
+       IMYWebView:UIWebView seamless switching to WKWebView,无缝切换 UIWebView 为 WKWebView
+       
+       还有一个功能给这个类似：https://github.com/CoderMJLee/MJExtension
    
