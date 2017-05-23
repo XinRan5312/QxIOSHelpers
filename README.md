@@ -50,4 +50,24 @@
        IMYWebView:UIWebView seamless switching to WKWebView,无缝切换 UIWebView 为 WKWebView
        
        还有一个功能给这个类似：https://github.com/CoderMJLee/MJExtension
-   
+ 7.https://github.com/saitjr  一个神奇的工作者 总能找到你想要的
+ 
+    
+    
+     1， numbbbbb/the-swift-programming-language-in-chinese
+      中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+
+     2，STLoadingGroup：loading views 各式各样的网络加载动画
+
+     3，STColorfulTabBar：彩色的TabBar，加平滑的切换动画
+
+     4，ReactiveCocoa-MVVM-AFNetworking-FMDB：ReactiveCocoa-MVVM-AFNetworking-FMDB小项目框架设计
+
+     5，STLoopProgressView：环形渐变进度条
+     
+     6，10000 Animations：Swift 代码 实现的1000种动画
+     
+     7，STShareTool：常见的社会化分享，包含（QQ、QQ控件、微信好友、微信朋友圈、新浪微博）
+     ............经典太多就不一一猎取了。
+ Objective-C  99   32太多
+ Objective-C  99   32
