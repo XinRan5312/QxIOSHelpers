@@ -69,5 +69,4 @@
      
      7，STShareTool：常见的社会化分享，包含（QQ、QQ控件、微信好友、微信朋友圈、新浪微博）
      ............经典太多就不一一猎取了。
- Objective-C  99   32太多
- Objective-C  99   32
+8.https://github.com/ylechelle/ 有一个非常著名的OpenUDID，因为7.0以后我们无法直接获取手机序列号 可以变相的利用这个代替
