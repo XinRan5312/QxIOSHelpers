@@ -11,7 +11,7 @@
     
     他有一个很牛犇的下拉刷新，上拉加载更多的工具项目：MJRefesh。
     
-    还有一个图片MJDownload（下载工具项目），
+    还有一个支持文件断点下载的框架MJDownload（下载工具项目），
     
     MJExtension（MJExtension是一套字典和模型之间互相转换的超轻量级框架）类似于YYModle
     
