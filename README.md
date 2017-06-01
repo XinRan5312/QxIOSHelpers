@@ -1,7 +1,10 @@
 # QxIOSHelpers
 总结了github上优秀的IOS开发人员项目，包括Object-C和Swift
 
-
+一个全才：https://github.com/onevcat/
+    
+    Kingfisher：一个很轻量级的Swift的图片处理架构，还有一个Swift的网络架构Alamofire：https://github.com/Alamofire/Alamofire
+    
 一.Object-C
 
 1，CoderMJLee：https://github.com/CoderMJLee
