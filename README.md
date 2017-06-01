@@ -1,6 +1,10 @@
 # QxIOSHelpers
 总结了github上优秀的IOS开发人员项目，包括Object-C和Swift
 
+基于高德地图的租车APP以及各种关于导航的APP的demo：https://github.com/amap-demo/
+    
+     https://github.com/amap-demo/iOS-trip  ：演示类似滴滴叫车功能
+
 一个全才：https://github.com/onevcat/
     
     Kingfisher：一个很轻量级的Swift的图片处理架构，还有一个Swift的网络架构Alamofire：https://github.com/Alamofire/Alamofire
